@@ -1,0 +1,9 @@
+1 创建github账号
+2 本地安装git bash命令行工具
+3 创建一个 new repository
+4 git bash 命令行git clone + https地址到本地
+5 把页面复制到该文件夹下 
+6 git add . 添加所有修改文件到历史区  或者通过git add -A 两者是一样的。
+7 git commit -m "注释"
+8 git push _ https地址
+9 回到项目，setting里把githubPages里的source项设置成master branch
